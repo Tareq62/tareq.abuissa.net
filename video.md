@@ -32,11 +32,11 @@ My longest-running project, these three movements were composed between Septembe
 
 I created this looping cello and guitar performance using Ableton Live. The rendition of the third movement of Seasonal was influenced by Andrew Bird's looping technique. The looping texture begins at <a id="time4">1:17</a>.
 
-<iframe src="http://www.youtube.com/embed/X9IWRm469jM" width="560" height="315" id="varsity_show" frameborder="0" allowfullscreen></iframe>
+<iframe src="//www.youtube.com/embed/X9IWRm469jM" width="560" height="315" id="varsity_show" frameborder="0" allowfullscreen></iframe>
 
-<h2 class="video-heading">Varsity Show: The Corporate Core <span>May 2012</span></h2>
+<h2 class="video-heading">V118: The Corporate Core <span>May 2012</span></h2>
 
-The <a href="http://www.wikipedia.org/wiki/Varsity_Show" target="blank">Varsity Show</a> is Columbia's oldest performing arts tradition, including Rodgers, Hammerstein, Hart, and Tom Kitt among its composer/lyricist alumni. In its 118th annual installment, our spring satire on the year's memorable moments attracted an audience of over 5,000. Solomon Hoffman and I devoted almost the entirety of our sophomore springs co-composing the two-act score. For plot information, visit <a ref="http://www.thevarsityshow.com/v118/">our year's page</a>. My favorite songs begin at the following times:</p>
+The <a href="http://www.wikipedia.org/wiki/Varsity_Show" target="blank">Varsity Show</a> is Columbia's oldest performing arts tradition, with composer-lyricist alumni including Rodgers, Hammerstein, Hart, Kitt and Yorkey. In its 118th annual installment, our spring satire on the year's memorable moments attracted an audience of over 5,000. Solomon Hoffman and I devoted our sophomore springs co-composing the two-act score for 11 singers and a pit of 25 musicians. For plot information, visit <a ref="http://www.thevarsityshow.com/v118/">our year's page</a>. My favorite songs begin at the following times:</p>
         <p><a id="time1">0:54</a> Another Epic Day!</p>
         <p><a id="time2">43:36</a> Nothing But Love</p>
         <p><a id="time3">57:55</a> Alma's Army</p>
