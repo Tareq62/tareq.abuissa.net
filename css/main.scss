@@ -46,3 +46,21 @@ $on-laptop:        800px;
 	float:right; 
 	padding-top: 1.5%
 }
+.home img {
+	width: 60%;
+	margin: 0 auto;
+	display: block;
+    padding-bottom: 16px;
+}
+@media (min-width: 600px) { 
+	.home {
+		img {
+			width: 250px;
+			float: left;
+			padding-top: 4px;
+		}
+		p {
+			margin-left: 280px;
+		}
+	}
+}
