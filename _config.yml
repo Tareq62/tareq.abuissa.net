@@ -16,9 +16,9 @@
 title: Tareq Abuissa, composer
 email: abuissat@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Tareq Abuissa is a composer, lyricist, and multi-instrumentalist. 
+  Tareq Abuissa is a composer, lyricist, and music director. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://tareq.abuissa.net" # the base hostname & protocol for your site
+url: "https://tareq.abuissa.net" # the base hostname & protocol for your site
 github_username:  Tareq62
 
 # Build settings
