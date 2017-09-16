@@ -4,7 +4,7 @@ title: Biography
 permalink: /biography/
 ---
 
-<img src="/assets/Columbians Compose.jpg">
+<img src="/assets/Columbians Compose crop.jpeg">
 
 <p>Tareq Abuissa (b. 1991) is a Syrian-American composer, lyricist, and music director. His credits as a composer for stage and screen include four original musicals, two artist interview series with Lincoln Center (2013), three Animation thesis films at the University of Southern California (2014), and a Dance thesis at Barnard College (2014). He has also composed works of chamber music and the music and lyrics for an indie rock album as Ruby Jubilee (2017). While studying Music and Mathematics at Columbia University, he co-composed the 118th Varsity Show, <i>The Corporate Core</i> (2012), and his composition teachers included Fred Lerdahl and Osvaldo Golijov. Abuissa is a member of the Society of Composers &amp; Lyricists.</p>
 
