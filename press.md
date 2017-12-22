@@ -87,6 +87,7 @@ permalink: /press/
 <b>Columbia Spectator, March 25, 2014</b>
 <br><b>Dance majors take center stage in senior thesis performances</b>
 <br>"Gina Borden, BC '14... chose to choreograph a solo for herself, which she set to guitar music by composer Tareq Abuissa, CC '14. She hired Mariah Maloney from the Trisha Brown Dance Company to direct her as she framed her ideas through a contemporary approach."
+
 <a href="http://columbiaspectator.com/arts-and-entertainment/2014/03/25/dance-majors-take-center-stage-senior-thesis-performances" target="blank">http://columbiaspectator.com/arts-and-entertainment/2014/03/25/dance-majors-take-center-stage-senior-thesis-performances</a>
 <img src="/assets/Gina dance thesis.jpg">
 
