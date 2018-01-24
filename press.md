@@ -95,6 +95,16 @@ permalink: /press/
 <hr>
 <br>
 
+<b>Huffington Post, February 11, 2014</b>
+<br><b>LyricLion: Of the Students, by the Students and for the Students</b>
+<br>"The night featured works by composers including Solomon Hoffman (CC ‘14), myself (CC ‘14), Tareq Abuissa (CC ‘14), Paul Bloom (CC’ 17), Jared Field (TC ‘15), Zak Hap (CC ‘17), Joshua Keough (CC ‘17), Daniel Lazour (CC ‘16) and Audrey Vardanega (CC ‘17) as well as arrangements of singer/songwriter pieces by Olivia Harris (CC ‘14), Emilie Schattman (BC ‘15), Taylor Simone (CC ‘14), Sarah Dooley (BC ‘11), Dominique Star (CC ‘13), and guests Katy Rea and Andrea Ross. The audience cheered loudest to Abuissa’s 'Seasonal IV: No Ears' and Harris’ 'Live Wire.'"
+
+<a href="https://www.huffingtonpost.com/alexander-spangher/lyriclion-a-force-within-_b_4757997.html" target="blank">https://www.huffingtonpost.com/alexander-spangher/lyriclion-a-force-within-_b_4757997.html</a>
+
+<br>
+<hr>
+<br>
+
 <b>Bwog, February 11, 2014</b>
 <br><b>LyricLion Showcases Columbia’s Composers</b>
 <br>"Tareq Abuissa’s 'Seasonal: IV. No Ears' finished the first act with a melody that seemed saccharine but deepened and swelled as the piece continued.  Abuissa also brought in Ellie Kirk on the harp to fill out sound and transport the audience."
