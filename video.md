@@ -6,17 +6,17 @@ permalink: /video/
 <iframe width="560" height="315" src="//www.youtube.com/embed/t0N-WbiDuJA" frameborder="0" allowfullscreen></iframe>
 
 <h2 class="video-heading">Juniper <span>May 2015</span></h2> 
-Acoustic guitar, four-part humming harmonies, bass, and percussive tapping. Performed live and recorded on Mother's Day 2015 on my rooftop in Harlem. Composed on the guitar in drop-D tuning, including experiments in a 5/4 meter and modulation in the middle section. The harmony and texture are influenced by Grizzly Bear.
+Acoustic guitar, four-part humming harmonies, bass, and percussive tapping recorded live on Mother's Day in 2015 on my rooftop in Harlem. Composed on the guitar in drop D tuning, the piece experiments with a 5/4 meter.
 
 <br>
 <hr>
 <br>
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/lXsKIJFXV8s" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/watch?v=mQyBLslQeLc" frameborder="0" allowfullscreen></iframe>
 
-<h2 class="video-heading">Seasonal iv. No Ears <span>February 2014</span></h2>
+<h2 class="video-heading">Oh, the Sugars <span>October 2013</span></h2>
 
-My longest-running project, this fourth movement was composed for LyricLion to complete the April 2013 performance. Each movement's themes were conceived during the corresponding season. Solomon Hoffman conducted this premiere, performed by Columbia ensemble LyricLion joined by harpist Ellie Kirk. Debussy and Ravel have influenced my chamber composing.
+Ben Crouse wrote and directed this "comic visual poem" which I scored with recorder, cello, piano, vocals, and triangle. He released it with Grossbus Animation on his birthday, a day before mine. 
 
 <br>
 <hr>
@@ -26,7 +26,7 @@ My longest-running project, this fourth movement was composed for LyricLion to c
 
 <h2 class="video-heading">Spotlight On... &amp; Rapid Fire <span>July 2013</span></h2>
 
-I composed, recorded, and performed all instruments on the soundtracks for Lincoln Center's artist interview web series. As a summer intern as the video portal was developing, my musical editing style helped shape the series' tones. I edited the video content for Joshua Bell, Claire Chase, and Iván Fischer in Final Cut Pro, working closely with and learning from a professional editor.
+I composed, recorded, and performed the soundtracks for Lincoln Center's artist interview web series as a summer intern. I edited the video content for Joshua Bell, Claire Chase, and Iván Fischer in Final Cut Pro, working closely with a professional editor.
 
 <br>
 <hr>
@@ -36,7 +36,17 @@ I composed, recorded, and performed all instruments on the soundtracks for Linco
 
 <h2 class="video-heading">Seasonal i-iii. <span>April 2013</span></h2>
 
-My longest-running project, these three movements were composed between September 2009 and April 2013. Each movement's themes were conceived during the corresponding season. I conducted this premiere, performed by Columbia ensemble LyricLion joined by Juilliard harpist Katherine Siochi. Debussy and Ravel have influenced my chamber composing, and the fourth movement was performed in February 2014.
+A project throughout my years at Columbia, these three movements of chamber music were composed between September 2009 and April 2013. Each movement's themes were conceived during the corresponding season. I conducted this premiere, performed by Columbia ensemble LyricLion (two flute, French horn, bassoon, 2 violins, 2 celli) joined by Juilliard harpist Katherine Siochi. Debussy and Ravel most influenced thi style of chamber music, and the fourth movement was premiered at a later performance.
+
+<br>
+<hr>
+<br>
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/lXsKIJFXV8s" frameborder="0" allowfullscreen></iframe>
+
+<h2 class="video-heading">Seasonal iv. No Ears <span>February 2014</span></h2>
+
+This fourth movement was composed for LyricLion to conclude the earlier performance. Solomon Hoffman conducted this premiere, performed by his ensemble LyricLion joined by harpist Ellie Kirk.
 
 <br>
 <hr>
