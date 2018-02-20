@@ -26,7 +26,7 @@ Ben Crouse wrote and directed this "comic visual poem" which I scored with recor
 
 <h2 class="video-heading">Spotlight On... &amp; Rapid Fire <span>July 2013</span></h2>
 
-I composed, recorded, and performed the soundtracks for Lincoln Center's artist interview web series as a summer intern. I edited the video content for Joshua Bell, Claire Chase, and Iván Fischer in Final Cut Pro, working closely with a professional editor.
+I composed, recorded, and performed the soundtracks for Lincoln Center's artist interview web series as a Media Development intern. I edited the footage of Joshua Bell, Claire Chase, and Iván Fischer timed to these underscores.
 
 <br>
 <hr>
