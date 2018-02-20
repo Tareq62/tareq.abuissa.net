@@ -12,7 +12,7 @@ Acoustic guitar, four-part humming harmonies, bass, and percussive tapping recor
 <hr>
 <br>
 
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=mQyBLslQeLc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/mQyBLslQeLc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <h2 class="video-heading">Oh, the Sugars <span>October 2013</span></h2>
 
