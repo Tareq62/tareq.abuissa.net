@@ -3,16 +3,7 @@ layout: page
 permalink: /video/
 ---
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/t0N-WbiDuJA" frameborder="0" allowfullscreen></iframe>
-
-<h2 class="video-heading">Juniper <span>May 2015</span></h2> 
-Acoustic guitar, four-part humming harmonies, bass, and percussive tapping recorded live on Mother's Day in 2015 on my rooftop in Harlem. Composed on the guitar in drop D tuning, the piece experiments with a 5/4 meter.
-
-<br>
-<hr>
-<br>
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/mQyBLslQeLc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mQyBLslQeLc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <h2 class="video-heading">Oh, the Sugars <span>October 2013</span></h2>
 
