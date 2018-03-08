@@ -13,7 +13,7 @@ dl, dd, ol, ul, figure {
 body {
   font: 400 16px/1.5 "Times New Roman", sans-serif;
   color: #FFFFFF;
-  background-color: #17202A;
+  background-color: black;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -158,10 +158,11 @@ pre {
   font-weight: 300;
   line-height: 56px;
   letter-spacing: -1px;
+  color: #FFFFFF;
   margin-bottom: 0;
   float: left; }
   .site-title, .site-title:visited {
-    color: #424242; }
+    color: #FFFFFF; }
 
 .site-nav {
   float: right;
@@ -169,7 +170,7 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #111;
+    color: #FFFFFF;
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
@@ -178,7 +179,7 @@ pre {
       position: absolute;
       top: 9px;
       right: 15px;
-      background-color: #fdfdfd;
+      background-color: black;
       border: 1px solid #e8e8e8;
       border-radius: 5px;
       text-align: right; }
