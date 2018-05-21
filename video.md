@@ -27,7 +27,7 @@ I composed, recorded, and performed the soundtracks for Lincoln Center's artist 
 
 <h2 class="video-heading">Seasonal i-iii. <span>April 2013</span></h2>
 
-A project throughout my years at Columbia, these three movements of chamber music were composed between September 2009 and April 2013. Each movement's themes were conceived during the corresponding season. I conducted this premiere, performed by Columbia ensemble LyricLion (two flute, French horn, bassoon, 2 violins, 2 celli) joined by Juilliard harpist Katherine Siochi. Debussy and Ravel most influenced thi style of chamber music, and the fourth movement was premiered at a later performance.
+These three movements of chamber music were composed between September 2009 and April 2013, with each movement conceived during its corresponding season. I conducted this premiere, performed by Columbia ensemble LyricLion (flute, French horn, bassoon, 2 violins, 2 celli) joined by Juilliard harpist Katherine Siochi. See below for the fourth movement, premiered at a later performance.
 
 <br>
 <hr>
@@ -37,7 +37,7 @@ A project throughout my years at Columbia, these three movements of chamber musi
 
 <h2 class="video-heading">Seasonal iv. No Ears <span>February 2014</span></h2>
 
-This fourth movement was composed for LyricLion to conclude the earlier performance. Solomon Hoffman conducted this premiere, performed by his ensemble LyricLion joined by harpist Ellie Kirk.
+This fourth movement was composed for LyricLion to complete Seasonal. Solomon Hoffman conducted this premiere, performed by his ensemble LyricLion joined by harpist Ellie Kirk.
 
 <br>
 <hr>
