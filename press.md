@@ -4,6 +4,18 @@ title: Press
 permalink: /press/
 ---
 
+<p><b>Super Hot Fuego, June 10, 2018</b>
+<br /><b>Interview with Ruby Jubilee</b>
+<br />"I’ve never listened to anything like Ruby Jubilee’s self-titled debut collaboration. The joint project from composer Tareq Abuissa and producer S.H2O is intricately composed, lushly produced, and so intentional about each artistic choice. Sitting somewhere between hallucinogenic musical and diary dreamscape, it’s truly difficult to choose a genre to describe it."</p>
+
+<p><a href="http://www.superhotfuego.com/blog/2018/06/10/interview-with-ruby-jubilee/" target="blank">http://www.superhotfuego.com/blog/2018/06/10/interview-with-ruby-jubilee//</a>
+<img src="/assets/RJFinalart1400.png" /></p>
+
+<p><br /></p>
+<hr />
+
+<p><br /></p>
+
 <b>Financial Times, November 15, 2017</b>
 <br><b>Making a song and dance about Silicon Valley’s ethics</b>
 <br>"This plotline echoed much of my own life, and I felt like a love-struck New York gang member hearing about West Side Story."
