@@ -68,3 +68,12 @@ $on-laptop:        800px;
 footer p {
 	font-size: 15px;
 }
+
+a {
+  color: #FFFFFF;
+  text-decoration: none; }
+  a:visited {
+    color: #FFFFFF; }
+  a:hover {
+    color: lightgray;
+    text-decoration: underline; }
