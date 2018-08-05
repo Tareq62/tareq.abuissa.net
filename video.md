@@ -4,9 +4,9 @@ permalink: /video/
 ---
 
 <iframe width="560" height="315" src="
-https://www.youtube.com/watch?time_continue=1&v=JLm5fOYsxEg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+https://youtu.be/JLm5fOYsxEg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<h2 class="video-heading">South of Market: The Musical V2 <span>October 2017</span></h2>
+<h2 class="video-heading">South of Market V2 <span>October 2017</span></h2>
 
 Alexandra Flores is a newly-graduated tech journalist in pursuit of the truth in the age of fake news and clickbait. Upon meeting co-founders of an artificial intelligence startup, Alex and her colleague discover there’s more to a company's story than their press releases might suggest. Alex's values will be tested while she goes rogue to bring the real story to light!
 
@@ -14,7 +14,7 @@ Alexandra Flores is a newly-graduated tech journalist in pursuit of the truth in
 <hr>
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=X6maYTUmkc4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/X6maYTUmkc4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <h2 class="video-heading">South of Market: The Musical <span>October 2016</span></h2>
 
