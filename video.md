@@ -35,7 +35,7 @@ Ben Crouse wrote and directed this "comic visual poem" which I scored with recor
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/9uoWYLm2rXE" frameborder="0" allowfullscreen></iframe>
 
-<h2 class="video-heading"><i>Spotlight On...</i> / <i>Rapid Fire</i> <span>July 2013</span></h2>
+<h2 class="video-heading"><i>Spotlight On...</i> &amp; <i>Rapid Fire</i> <span>July 2013</span></h2>
 
 I composed and recorded the soundtracks for Lincoln Center's artist interviews as a Media Development intern. I also video edited the footage of Joshua Bell, Claire Chase, and Iván Fischer timed to these underscores.
 
@@ -65,7 +65,7 @@ This fourth movement was composed to represent summer, concluding the previous m
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/R2FIr4I59ec?enablejsapi=1" id="ted_x" frameborder="0" allowfullscreen></iframe>
 
-<h2 class="video-heading">TEDxColumbiaCollege <span>November 2012</span></h2>
+<h2 class="video-heading"><i>of Rain</i> at TEDxColumbiaCollege <span>November 2012</span></h2>
 
 I created this looping cello and guitar performance using Ableton Live. The melody is from the third movement of <i>Seasonal</i>, while the live looping technique was inspired by Andrew Bird. The looping begins at <a id="time4">1:17</a>.
 
