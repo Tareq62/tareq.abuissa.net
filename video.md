@@ -77,7 +77,7 @@ I arranged this looping cello/guitar performance from <i>of Rain</i>, the third 
 
 <h2 class="video-heading">V118: <i>The Corporate Core</i> <span>May 2012</span></h2>
 
-The <a href="http://www.wikipedia.org/wiki/Varsity_Show" target="blank">Varsity Show</a> is Columbia's oldest performing arts tradition, with composer-lyricist alumni including Rodgers, Hammerstein, Hart, Kitt, and Yorkey. In its 118th annual installment, our spring satire on the year's memorable moments attracted an audience of over 5,000. Solomon Hoffman and I devoted our sophomore springs co-composing the two-act score for 11 singers and a pit of 25 musicians. For plot information, click to visit <a href="http://www.thevarsityshow.com/v118/">our year's Varsity Show page</a>. My favorite tunes begin at the following times:
+The <a href="http://www.wikipedia.org/wiki/Varsity_Show" target="blank">Varsity Show</a> is Columbia's oldest performing arts tradition, with composer-lyricist alumni including Rodgers, Hammerstein, Hart, Kitt, and Yorkey. In its 118th annual installment, our spring satire on the year's memorable moments attracted an audience of over 5,000. Solomon Hoffman and I devoted our sophomore springs co-composing the two-act score for 11 singers and a pit of 25 musicians. For more background, visit our year's <a href="http://www.thevarsityshow.com/v118/">Varsity Show page here</a>. My favorite tunes begin at the following times:
 
 <p><a id="time1">0:54</a> Another Epic Day!</p>
 <p><a id="time2">43:36</a> Nothing But Love</p>
