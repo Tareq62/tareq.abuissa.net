@@ -75,7 +75,7 @@ I created this looping cello and guitar performance using Ableton Live. The melo
 
 <iframe src="//www.youtube.com/embed/X9IWRm469jM?enablejsapi=1" width="560" height="315" id="varsity_show" frameborder="0" allowfullscreen></iframe>
 
-<h2 class="video-heading"><i>V118: The Corporate Core</i> <span>May 2012</span></h2>
+<h2 class="video-heading">V118: <i>The Corporate Core</i> <span>May 2012</span></h2>
 
 The <a href="http://www.wikipedia.org/wiki/Varsity_Show" target="blank">Varsity Show</a> is Columbia's oldest performing arts tradition, with composer-lyricist alumni including Rodgers, Hammerstein, Hart, Kitt, and Yorkey. In its 118th annual installment, our spring satire on the year's memorable moments attracted an audience of over 5,000. Solomon Hoffman and I devoted our sophomore springs co-composing the two-act score for 11 singers and a pit of 25 musicians. For plot information, click to visit <a href="http://www.thevarsityshow.com/v118/">our year's Varsity Show page</a>. My favorite tunes begin at the following times:
 
