@@ -65,9 +65,9 @@ This fourth movement was composed to represent summer, concluding the previous m
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/R2FIr4I59ec?enablejsapi=1" id="ted_x" frameborder="0" allowfullscreen></iframe>
 
-<h2 class="video-heading"><i>of Rain</i> at TEDxColumbiaCollege <span>November 2012</span></h2>
+<h2 class="video-heading">TEDxColumbiaCollege <span>November 2012</span></h2>
 
-I created this looping cello and guitar performance using Ableton Live. The melody is from the third movement of <i>Seasonal</i>, while the live looping technique was inspired by Andrew Bird. The looping begins at <a id="time4">1:17</a>.
+I arranged this looping cello and guitar performance from <i>of Rain</i>the third movement of <i>Seasonal</i>. Andrew Bird inspired the live looping technique, which I implemented in Ableton Live, and can be heard beginning at <a id="time4">1:17</a>.
 
 <br>
 <hr>
