@@ -25,7 +25,7 @@ Riley Hunter is a 29-and-¾-year-old founder determined to make Forbes' 30 Under
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mQyBLslQeLc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<h2 class="video-heading"><i>Oh, the Sugars</i> <span>October 2013</span></h2>
+<h2 class="video-heading">"Oh, the Sugars" <span>October 2013</span></h2>
 
 Ben Crouse wrote and directed this "comic visual poem" which I scored with recorder, cello, piano, vocals, and triangle. He released it with Grossbus Animation on his birthday, a day before my own. 
 
@@ -35,7 +35,7 @@ Ben Crouse wrote and directed this "comic visual poem" which I scored with recor
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/9uoWYLm2rXE" frameborder="0" allowfullscreen></iframe>
 
-<h2 class="video-heading"><i>Spotlight On...</i> &amp; <i>Rapid Fire</i> <span>July 2013</span></h2>
+<h2 class="video-heading"><i>Spotlight On...</i> / <i>Rapid Fire</i> <span>July 2013</span></h2>
 
 I composed and recorded the soundtracks for Lincoln Center's artist interviews as a Media Development intern. I also video edited the footage of Joshua Bell, Claire Chase, and Iván Fischer timed to these underscores.
 
@@ -67,7 +67,7 @@ This fourth movement was composed to represent summer, concluding the previous m
 
 <h2 class="video-heading">TEDxColumbiaCollege <span>November 2012</span></h2>
 
-I created this looping cello and guitar performance using Ableton Live. A rendition of the third movement of Seasonal, the looping technique was inspired by Andrew Bird. The looping begins at <a id="time4">1:17</a>.
+I created this looping cello and guitar performance using Ableton Live. The melody is from the third movement of <i>Seasonal</i>, while the live looping technique was inspired by Andrew Bird. The looping begins at <a id="time4">1:17</a>.
 
 <br>
 <hr>
@@ -75,7 +75,7 @@ I created this looping cello and guitar performance using Ableton Live. A rendit
 
 <iframe src="//www.youtube.com/embed/X9IWRm469jM?enablejsapi=1" width="560" height="315" id="varsity_show" frameborder="0" allowfullscreen></iframe>
 
-<h2 class="video-heading">V118: The Corporate Core <span>May 2012</span></h2>
+<h2 class="video-heading"><i>V118: The Corporate Core</i> <span>May 2012</span></h2>
 
 The <a href="http://www.wikipedia.org/wiki/Varsity_Show" target="blank">Varsity Show</a> is Columbia's oldest performing arts tradition, with composer-lyricist alumni including Rodgers, Hammerstein, Hart, Kitt, and Yorkey. In its 118th annual installment, our spring satire on the year's memorable moments attracted an audience of over 5,000. Solomon Hoffman and I devoted our sophomore springs co-composing the two-act score for 11 singers and a pit of 25 musicians. For plot information, click to visit <a href="http://www.thevarsityshow.com/v118/">our year's Varsity Show page</a>. My favorite tunes begin at the following times:
 
