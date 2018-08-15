@@ -5,7 +5,7 @@ permalink: /video/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/liMGHaOW_EY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<h2 class="video-heading">South of Market v2 <span>October 2017</span></h2>
+<h2 class="video-heading"><i>South of Market v2</i><span>October 2017</span></h2>
 
 Alexandra Flores is a newly-graduated tech journalist in pursuit of the truth in the age of fake news and clickbait. Upon meeting co-founders of an artificial intelligence startup, Alex and her colleague discover there’s more to a company's story than their press releases might suggest. Alex's values will be tested while she goes rogue to bring the real story to light!
 
@@ -15,7 +15,7 @@ Alexandra Flores is a newly-graduated tech journalist in pursuit of the truth in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X6maYTUmkc4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<h2 class="video-heading">South of Market: The Musical <span>October 2016</span></h2>
+<h2 class="video-heading"><i>South of Market: The Musical</i><span>October 2016</span></h2>
 
 Riley Hunter is a 29-and-¾-year-old founder determined to make Forbes' 30 Under 30. With his birthday fast approaching, Riley must maneuver a quick-to-judge venture capitalist who just ‘wants to be helpful,’ convince his CTO Anish to code instead of eating truffles in Dolores Park, and learn how to respect his COO, Delia, the backbone of their company.
 
@@ -25,9 +25,9 @@ Riley Hunter is a 29-and-¾-year-old founder determined to make Forbes' 30 Under
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mQyBLslQeLc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<h2 class="video-heading">Oh, the Sugars <span>October 2013</span></h2>
+<h2 class="video-heading"><i>Oh, the Sugars</i> <span>October 2013</span></h2>
 
-Ben Crouse wrote and directed this "comic visual poem" which I scored with recorder, cello, piano, vocals, and triangle. He released it with Grossbus Animation on his birthday, a day before mine. 
+Ben Crouse wrote and directed this "comic visual poem" which I scored with recorder, cello, piano, vocals, and triangle. He released it with Grossbus Animation on his birthday, a day before my own. 
 
 <br>
 <hr>
@@ -35,9 +35,9 @@ Ben Crouse wrote and directed this "comic visual poem" which I scored with recor
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/9uoWYLm2rXE" frameborder="0" allowfullscreen></iframe>
 
-<h2 class="video-heading">Spotlight On... &amp; Rapid Fire <span>July 2013</span></h2>
+<h2 class="video-heading"><i>Spotlight On...</i> &amp; <i>Rapid Fire</i> <span>July 2013</span></h2>
 
-I composed, recorded, and performed the soundtracks for Lincoln Center's artist interview web series as a Media Development intern. I edited the footage of Joshua Bell, Claire Chase, and Iván Fischer timed to these underscores.
+I composed and recorded the soundtracks for Lincoln Center's artist interviews as a Media Development intern. I also video edited the footage of Joshua Bell, Claire Chase, and Iván Fischer timed to these underscores.
 
 <br>
 <hr>
@@ -45,9 +45,9 @@ I composed, recorded, and performed the soundtracks for Lincoln Center's artist 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/PR-rKHqk2n0" frameborder="0" allowfullscreen></iframe>
 
-<h2 class="video-heading">Seasonal i-iii. <span>April 2013</span></h2>
+<h2 class="video-heading"><i>Seasonal: i-iii.</i> <span>April 2013</span></h2>
 
-These three movements of chamber music were composed between September 2009 and April 2013, with each movement conceived during its corresponding season. I conducted this premiere, performed by Columbia ensemble LyricLion (flute, French horn, bassoon, 2 violins, 2 celli) joined by Juilliard harpist Katherine Siochi. See below for the fourth movement, premiered at a later performance.
+These three movements of chamber music were composed between September 2009 and April 2013, with each movement (fall, winter, spring) conceived during its corresponding season. I conducted this premiere, performed by Columbia ensemble LyricLion (flute, French horn, bassoon, 2 violins, 2 celli) joined by Juilliard harpist Katherine Siochi. See below for the fourth movement, premiered at a later performance.
 
 <br>
 <hr>
@@ -55,9 +55,9 @@ These three movements of chamber music were composed between September 2009 and 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/lXsKIJFXV8s" frameborder="0" allowfullscreen></iframe>
 
-<h2 class="video-heading">Seasonal iv. No Ears <span>February 2014</span></h2>
+<h2 class="video-heading"><i>Seasonal: iv. No Ears</i> <span>February 2014</span></h2>
 
-This fourth movement was composed for LyricLion to complete Seasonal. Solomon Hoffman conducted this premiere, performed by his ensemble LyricLion joined by harpist Ellie Kirk.
+This fourth movement was composed to represent summer, concluding the previous movements of <i>Seasonal</i>. Solomon Hoffman conducted its premiere, performed by his ensemble LyricLion and harpist Ellie Kirk.
 
 <br>
 <hr>
@@ -77,7 +77,7 @@ I created this looping cello and guitar performance using Ableton Live. A rendit
 
 <h2 class="video-heading">V118: The Corporate Core <span>May 2012</span></h2>
 
-The <a href="http://www.wikipedia.org/wiki/Varsity_Show" target="blank">Varsity Show</a> is Columbia's oldest performing arts tradition, with composer-lyricist alumni including Rodgers, Hammerstein, Hart, Kitt, and Yorkey. In its 118th annual installment, our spring satire on the year's memorable moments attracted an audience of over 5,000. Solomon Hoffman and I devoted our sophomore springs co-composing the two-act score for 11 singers and a pit of 25 musicians. For plot information, visit <a href="http://www.thevarsityshow.com/v118/">our year's page</a>. My favorite songs begin at the following times:
+The <a href="http://www.wikipedia.org/wiki/Varsity_Show" target="blank">Varsity Show</a> is Columbia's oldest performing arts tradition, with composer-lyricist alumni including Rodgers, Hammerstein, Hart, Kitt, and Yorkey. In its 118th annual installment, our spring satire on the year's memorable moments attracted an audience of over 5,000. Solomon Hoffman and I devoted our sophomore springs co-composing the two-act score for 11 singers and a pit of 25 musicians. For plot information, click to visit <a href="http://www.thevarsityshow.com/v118/">our year's Varsity Show page</a>. My favorite tunes begin at the following times:
 
 <p><a id="time1">0:54</a> Another Epic Day!</p>
 <p><a id="time2">43:36</a> Nothing But Love</p>
