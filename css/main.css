@@ -458,7 +458,9 @@ pre {
     color: #099; }
 
 .video-heading {
-  width: 67.5%; }
+  width: 67.5%; 
+  float: left;
+  }
 
 .video-heading span {
   font-size: 16px;
