@@ -480,3 +480,13 @@ pre {
     margin-left: 280px; } }
 footer p {
   font-size: 15px; }
+
+.group{
+  max-width: 660px;
+}
+
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}    
