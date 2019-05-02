@@ -4,9 +4,19 @@ title: Music
 permalink: /music/
 ---
 
-<iframe width="100%" height="600" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/495799542&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe width="100%" height="600" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/770180760&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 <p> Ruby Jubilee is the collaboration of Tareq Abuissa (music and lyrics) and S.H2O (production and mastering). Debut album recorded by Oliver Ignatius at Holy Fang Studios in Brooklyn, NY. </p>
+<hr>
+<br>
+
+
+<iframe width="100%" height="600" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/495799542&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<p> When a second-tier American art museum unexpectedly receives Manet’s Le Déjeuner sur l’herbe on loan for a landmark exhibition, the curator’s wife learns a lesson in art history, l’amour, and the necessity of following one’s dreams. </p>
+<br>
+<p> Book and Lyrics: Germaine Shames </p>
+<p> Music: Tareq Abuissa </p>
 <hr>
 <br>
 
