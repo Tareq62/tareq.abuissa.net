@@ -19,7 +19,7 @@ permalink: /music/
 <iframe width="100%" height="600" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/770180760&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 <p> When a second-tier American art museum unexpectedly receives Manet’s <i>Le Déjeuner sur l’herbe</i> on loan for an exhibition, the curator’s wife learns a lesson in art history, l’amour, and the necessity of following one’s dreams. </p>
-Book and Lyrics: Germaine Shames    |     Music: Tareq Abuissa
+Book and Lyrics: Germaine Shames                   Music: Tareq Abuissa
 <br>
 
 <hr>
